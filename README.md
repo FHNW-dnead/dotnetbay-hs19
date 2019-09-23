@@ -30,6 +30,9 @@ The following products / tools are needed to contribute / fork.
 * Martin Kropp
 * Daniel Pfulg
 
+* Tobias Rüegsegger
+* Alexander Weinbeck
+
 ## License
 Licensed under the MIT License
 
