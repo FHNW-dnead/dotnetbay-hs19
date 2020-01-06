@@ -1,4 +1,4 @@
-# dotnetbay - A .NET Auction Bootstrapper 
+# dotnetbay - A .NET Auction Bootstrapper [![Build status](https://ci.appveyor.com/api/projects/status/nwc3ob38olbi2wsc?svg=true)](https://ci.appveyor.com/project/andreasumbricht/dotnetbay-hs19)
 A bootstrap solution to build your own basic auction portal.
 
 ## Goals
@@ -26,9 +26,8 @@ The following products / tools are needed to contribute / fork.
 * NCrunch [http://www.ncrunch.net/](http://www.ncrunch.net/)
 
 ## Authors
-* Michael Schnyder
-* Martin Kropp
-* Daniel Pfulg
+* Andreas Umbricht
+* Rico Vogelsang
 
 ## License
 Licensed under the MIT License
